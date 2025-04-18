@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
-**English** | [فارسی](ربات-تلگرام-هوش-مصنوعی)
+**English** | [فارسی](#ربات-تلگرام-هوش-مصنوعی)
 
 A powerful Telegram bot that uses various AI models through OpenRouter API to provide an intelligent chat assistant. The bot can handle multiple language models, process text and images, and provide translations.
 
