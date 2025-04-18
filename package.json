@@ -1,0 +1,26 @@
+{
+  "name": "MultiModel-AI-Telegram-Assistant",
+  "version": "1.0.0",
+  "description": "My AI Telegram Assistant",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.6.0",
+    "@google-cloud/translate": "^7.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "ai",
+    "llm",
+    "assistant"
+  ],
+  "author": "xPOURY4",
+  "license": "MIT"
+}
